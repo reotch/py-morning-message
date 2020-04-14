@@ -2,7 +2,8 @@
 
 A simple script that animates a message welcoming you to the day—with ominous foreshadowing.
 
-```import time
+```
+import time
 import sys
 
 morning = '\n\nGood morning, Reotch.'
@@ -18,4 +19,5 @@ def delay_print(message):
 	
 delay_print(morning)
 delay_print(breathe)
-delay_print(end_of_line)```
+delay_print(end_of_line)
+```
